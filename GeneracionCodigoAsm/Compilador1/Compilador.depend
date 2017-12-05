@@ -1,0 +1,331 @@
+# depslib dependency file v1.0
+1488235064 source:c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\compilador\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"lexico.h"
+	"lista_tokens.h"
+	"pila.h"
+
+1488230730 c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\compilador\lexico.h
+	"lista_tokens.h"
+	"tokens.h"
+
+1488230518 c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\compilador\lista_tokens.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	"nodo.h"
+
+1487634663 c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\compilador\nodo.h
+	<iostream>
+	"tokens.h"
+
+1487634663 c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\compilador\tokens.h
+	<iostream>
+
+1488234908 c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\compilador\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1494296760 source:c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\stlii\compilador1\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"lexico.h"
+	"lista_tokens.h"
+	"sintactico.h"
+	"reglas.h"
+
+1494259435 c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\stlii\compilador1\lexico.h
+	"lista_tokens.h"
+	"tokens.h"
+
+1495491566 c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\stlii\compilador1\lista_tokens.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	"nodo.h"
+
+1494258905 c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\stlii\compilador1\nodo.h
+	<iostream>
+	"tokens.h"
+
+1487638263 c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\stlii\compilador1\tokens.h
+	<iostream>
+
+1492914644 c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\stlii\compilador1\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1494296132 c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\stlii\compilador1\sintactico.h
+	<iostream>
+	<fstream>
+	"pila.h"
+	"lista_tokens.h"
+	"reglas.h"
+
+1495492504 c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\stlii\compilador1\reglas.h
+	<iostream>
+	"pila.h"
+	"simbolo.h"
+
+1495489789 c:\users\jaimealberto\onedrive\documentos\universidad\semestre 8\stlii\compilador1\simbolo.h
+	<iostream>
+
+1511833860 source:e:\compilador\compilador1\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"lexico.h"
+	"lista_tokens.h"
+	"sintactico.h"
+	"reglas.h"
+
+1494255836 e:\compilador\compilador1\lexico.h
+	"lista_tokens.h"
+	"tokens.h"
+
+1511728036 e:\compilador\compilador1\lista_tokens.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	"nodo.h"
+
+1494255306 e:\compilador\compilador1\nodo.h
+	<iostream>
+	"tokens.h"
+
+1487634664 e:\compilador\compilador1\tokens.h
+	<iostream>
+
+1494292534 e:\compilador\compilador1\sintactico.h
+	<iostream>
+	<fstream>
+	"pila.h"
+	"lista_tokens.h"
+	"reglas.h"
+
+1492911046 e:\compilador\compilador1\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1511827746 e:\compilador\compilador1\reglas.h
+	<iostream>
+	<sstream>
+	<fstream>
+	"pila.h"
+	"simbolo.h"
+
+1495486190 e:\compilador\compilador1\simbolo.h
+	<iostream>
+
+1512014678 source:g:\compilador\compilador1\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"lexico.h"
+	"lista_tokens.h"
+	"sintactico.h"
+	"reglas.h"
+
+1494252236 g:\compilador\compilador1\lexico.h
+	"lista_tokens.h"
+	"tokens.h"
+
+1512013206 g:\compilador\compilador1\lista_tokens.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	"nodo.h"
+
+1494251706 g:\compilador\compilador1\nodo.h
+	<iostream>
+	"tokens.h"
+
+1487634664 g:\compilador\compilador1\tokens.h
+	<iostream>
+
+1494288934 g:\compilador\compilador1\sintactico.h
+	<iostream>
+	<fstream>
+	"pila.h"
+	"lista_tokens.h"
+	"reglas.h"
+
+1492907446 g:\compilador\compilador1\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1512015068 g:\compilador\compilador1\reglas.h
+	<iostream>
+	<sstream>
+	<fstream>
+	"pila.h"
+	"simbolo.h"
+
+1512012798 g:\compilador\compilador1\simbolo.h
+	<iostream>
+
+1512014678 source:g:\compilador1\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"lexico.h"
+	"lista_tokens.h"
+	"sintactico.h"
+	"reglas.h"
+
+1494252236 g:\compilador1\lexico.h
+	"lista_tokens.h"
+	"tokens.h"
+
+1512015320 g:\compilador1\lista_tokens.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	"nodo.h"
+
+1494251706 g:\compilador1\nodo.h
+	<iostream>
+	"tokens.h"
+
+1487634664 g:\compilador1\tokens.h
+	<iostream>
+
+1494288934 g:\compilador1\sintactico.h
+	<iostream>
+	<fstream>
+	"pila.h"
+	"lista_tokens.h"
+	"reglas.h"
+
+1492907446 g:\compilador1\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1512015068 g:\compilador1\reglas.h
+	<iostream>
+	<sstream>
+	<fstream>
+	"pila.h"
+	"simbolo.h"
+
+1512012798 g:\compilador1\simbolo.h
+	<iostream>
+
+1512014678 source:c:\users\edgar\desktop\compilador1\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"lexico.h"
+	"lista_tokens.h"
+	"sintactico.h"
+	"reglas.h"
+
+1494252236 c:\users\edgar\desktop\compilador1\lexico.h
+	"lista_tokens.h"
+	"tokens.h"
+
+1512015320 c:\users\edgar\desktop\compilador1\lista_tokens.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	"nodo.h"
+
+1494251706 c:\users\edgar\desktop\compilador1\nodo.h
+	<iostream>
+	"tokens.h"
+
+1487634664 c:\users\edgar\desktop\compilador1\tokens.h
+	<iostream>
+
+1494288934 c:\users\edgar\desktop\compilador1\sintactico.h
+	<iostream>
+	<fstream>
+	"pila.h"
+	"lista_tokens.h"
+	"reglas.h"
+
+1492907446 c:\users\edgar\desktop\compilador1\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1512017422 c:\users\edgar\desktop\compilador1\reglas.h
+	<iostream>
+	<sstream>
+	<fstream>
+	"pila.h"
+	"simbolo.h"
+
+1512012798 c:\users\edgar\desktop\compilador1\simbolo.h
+	<iostream>
+
+1512023866 source:g:\nueva carpeta\generacioncodigoasm\compilador1\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"lexico.h"
+	"lista_tokens.h"
+	"sintactico.h"
+	"reglas.h"
+
+1512023866 g:\nueva carpeta\generacioncodigoasm\compilador1\lexico.h
+	"lista_tokens.h"
+	"tokens.h"
+
+1512023866 g:\nueva carpeta\generacioncodigoasm\compilador1\lista_tokens.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	"nodo.h"
+
+1512023866 g:\nueva carpeta\generacioncodigoasm\compilador1\nodo.h
+	<iostream>
+	"tokens.h"
+
+1512023866 g:\nueva carpeta\generacioncodigoasm\compilador1\tokens.h
+	<iostream>
+
+1512023866 g:\nueva carpeta\generacioncodigoasm\compilador1\sintactico.h
+	<iostream>
+	<fstream>
+	"pila.h"
+	"lista_tokens.h"
+	"reglas.h"
+
+1512023866 g:\nueva carpeta\generacioncodigoasm\compilador1\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1512023866 g:\nueva carpeta\generacioncodigoasm\compilador1\reglas.h
+	<iostream>
+	<sstream>
+	<fstream>
+	"pila.h"
+	"simbolo.h"
+
+1512023866 g:\nueva carpeta\generacioncodigoasm\compilador1\simbolo.h
+	<iostream>
+

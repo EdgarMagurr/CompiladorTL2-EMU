@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1488138405 source:\\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p1\src\file.cpp
+	"File.h"
+
+1488138405 \\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p1\include\file.h
+
+1488174006 source:\\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p1\src\tokenizer.cpp
+	"Tokenizer.h"
+
+1488177100 \\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p1\include\tokenizer.h
+	<iostream>
+	<string>
+	<cstring>
+
+1488177104 source:\\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p1\main.cpp
+	<iostream>
+	"Tokenizer.h"
+	"Pila.h"
+	"Ejercicio2.h"
+
+1488174210 \\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p1\include\pila.h
+	<stack>
+
+1488172599 \\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p1\include\tiposimbolo.h
+
+1488175282 \\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p1\include\ejercicio1.h
+
+1488177823 \\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p1\include\ejercicio2.h
+
+1488138405 source:\\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p3\src\file.cpp
+	"File.h"
+
+1488138405 \\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p3\include\file.h
+
+1488174006 source:\\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p3\src\tokenizer.cpp
+	"Tokenizer.h"
+
+1489356674 \\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p3\include\tokenizer.h
+	<iostream>
+	<string>
+	<cstring>
+
+1489360296 source:\\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p3\main.cpp
+	<iostream>
+	"Tokenizer.h"
+	"Pila.h"
+
+1489356017 \\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p3\include\pila.h
+	<stack>
+
+1488175282 \\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p3\include\ejercicio1.h
+
+1488138405 source:c:\users\lol\appdata\roaming\local libraries\local documents\p3\src\file.cpp
+	"File.h"
+
+1488138405 c:\users\lol\appdata\roaming\local libraries\local documents\p3\include\file.h
+
+1488174006 source:c:\users\lol\appdata\roaming\local libraries\local documents\p3\src\tokenizer.cpp
+	"Tokenizer.h"
+
+1489356674 c:\users\lol\appdata\roaming\local libraries\local documents\p3\include\tokenizer.h
+	<iostream>
+	<string>
+	<cstring>
+
+1489360501 source:c:\users\lol\appdata\roaming\local libraries\local documents\p3\main.cpp
+	<iostream>
+	"Tokenizer.h"
+	"Pila.h"
+
+1489360639 c:\users\lol\appdata\roaming\local libraries\local documents\p3\include\pila.h
+	<stack>
+
+1488160004 source:c:\users\usuario\desktop\p4 sintactico\src\file.cpp
+	"File.h"
+
+1489447600 c:\users\usuario\desktop\p4 sintactico\include\file.h
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+
+1488195606 source:c:\users\usuario\desktop\p4 sintactico\src\tokenizer.cpp
+	"Tokenizer.h"
+
+1489447854 c:\users\usuario\desktop\p4 sintactico\include\tokenizer.h
+	<iostream>
+	<string>
+	<cstring>
+
+1489448167 source:c:\users\usuario\desktop\p4 sintactico\main.cpp
+	<iostream>
+	"Tokenizer.h"
+	"Pila.h"
+	"File.h"
+
+1489441802 c:\users\usuario\desktop\p4 sintactico\include\pila.h
+	<stack>
+
+1489458957 source:\\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p4 sintactico\main.cpp
+	<iostream>
+	"Tokenizer.h"
+	"Pila.h"
+	"File.h"
+
+1489454595 \\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p4 sintactico\include\tokenizer.h
+	<iostream>
+	<string>
+	<cstring>
+
+1489449678 \\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p4 sintactico\include\pila.h
+	<stack>
+
+1489458593 \\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p4 sintactico\include\file.h
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+
+1489454589 source:\\mac\dropbox\cucei\8vo semestre\seminario de traductores 2\hechas\p4 sintactico\src\tokenizer.cpp
+	"Tokenizer.h"
+

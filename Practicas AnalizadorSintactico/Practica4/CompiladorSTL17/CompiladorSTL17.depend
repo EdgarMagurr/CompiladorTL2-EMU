@@ -1,0 +1,295 @@
+# depslib dependency file v1.0
+1504498043 source:c:\users\edgar\documents\9no semestre\sem de tl2\compiladorstl17\lexico.cpp
+	"Lexico.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1504498043 c:\users\edgar\documents\9no semestre\sem de tl2\compiladorstl17\lexico.h
+	<iostream>
+	<string>
+	<string.h>
+
+1504501485 source:c:\users\edgar\documents\9no semestre\sem de tl2\compiladorstl17\main.cpp
+	<iostream>
+	"Lexico.h"
+	"Sintactico.h"
+
+1504501280 c:\users\edgar\documents\9no semestre\sem de tl2\compiladorstl17\sintactico.h
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1504499370 c:\users\edgar\documents\9no semestre\sem de tl2\compiladorstl17\tiposimbolo.h
+
+1504501407 source:c:\users\edgar\documents\9no semestre\sem de tl2\compiladorstl17\sintactico.cpp
+	"Sintactico.h"
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1504501644 source:d:\prueba\compiladorstl17\lexico.cpp
+	"Lexico.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1504501644 d:\prueba\compiladorstl17\lexico.h
+	<iostream>
+	<string>
+	<string.h>
+
+1504542746 source:d:\prueba\compiladorstl17\main.cpp
+	<iostream>
+	"Lexico.h"
+	"Sintactico.h"
+
+1504541806 d:\prueba\compiladorstl17\sintactico.h
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1504541968 source:d:\prueba\compiladorstl17\sintactico.cpp
+	"Sintactico.h"
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1504501644 source:d:\prueba\ejercicio 1\compiladorstl17\lexico.cpp
+	"Lexico.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1504501644 d:\prueba\ejercicio 1\compiladorstl17\lexico.h
+	<iostream>
+	<string>
+	<string.h>
+
+1504544134 source:d:\prueba\ejercicio 1\compiladorstl17\sintactico.cpp
+	"Sintactico.h"
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1504541806 d:\prueba\ejercicio 1\compiladorstl17\sintactico.h
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1504498044 source:f:\prueba\ejercicio 2 v\compiladorstl17\lexico.cpp
+	"Lexico.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1504498044 f:\prueba\ejercicio 2 v\compiladorstl17\lexico.h
+	<iostream>
+	<string>
+	<string.h>
+
+1505089652 source:f:\prueba\ejercicio 2 v\compiladorstl17\sintactico.cpp
+	"Sintactico.h"
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1505089652 f:\prueba\ejercicio 2 v\compiladorstl17\sintactico.h
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1505089682 source:f:\prueba\ejercicio 2 v\compiladorstl17\main.cpp
+	<iostream>
+	"Lexico.h"
+	"Sintactico.h"
+
+1504501644 source:e:\prueba\ejercicio 2 v\compiladorstl17\lexico.cpp
+	"Lexico.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1504501644 e:\prueba\ejercicio 2 v\compiladorstl17\lexico.h
+	<iostream>
+	<string>
+	<string.h>
+
+1505093252 source:e:\prueba\ejercicio 2 v\compiladorstl17\sintactico.cpp
+	"Sintactico.h"
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1505093252 e:\prueba\ejercicio 2 v\compiladorstl17\sintactico.h
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1505178954 source:e:\prueba\ejercicio 2 v\compiladorstl17\main.cpp
+	<iostream>
+	"Lexico.h"
+	"Sintactico.h"
+
+1504498044 source:f:\prueba\practica 3\compiladorstl17\lexico.cpp
+	"Lexico.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1504498044 f:\prueba\practica 3\compiladorstl17\lexico.h
+	<iostream>
+	<string>
+	<string.h>
+
+1505611118 source:f:\prueba\practica 3\compiladorstl17\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	"Lexico.h"
+	"Pila.h"
+
+1505089652 f:\prueba\practica 3\compiladorstl17\sintactico.h
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1505089652 source:f:\prueba\practica 3\compiladorstl17\sintactico.cpp
+	"Sintactico.h"
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1505611364 f:\prueba\practica 3\compiladorstl17\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1504501644 source:e:\prueba\practica 3\compiladorstl17\lexico.cpp
+	"Lexico.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1504501644 e:\prueba\practica 3\compiladorstl17\lexico.h
+	<iostream>
+	<string>
+	<string.h>
+
+1505614990 source:e:\prueba\practica 3\compiladorstl17\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	"Lexico.h"
+	"Pila.h"
+
+1505614964 e:\prueba\practica 3\compiladorstl17\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1504498044 source:f:\prueba\practica4\compiladorstl17\lexico.cpp
+	"Lexico.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1504498044 f:\prueba\practica4\compiladorstl17\lexico.h
+	<iostream>
+	<string>
+	<string.h>
+
+1506916318 source:f:\prueba\practica4\compiladorstl17\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	"Lexico.h"
+	"Pila.h"
+	"Gramatica.h"
+
+1506916798 f:\prueba\practica4\compiladorstl17\pila.h
+	<stack>
+	<iostream>
+	<string>
+
+1506921112 f:\prueba\practica4\compiladorstl17\gramatica.h
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+
+1506959396 source:d:\prueba\practica4\compiladorstl17\lexico.cpp
+	"Lexico.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1504501644 d:\prueba\practica4\compiladorstl17\lexico.h
+	<iostream>
+	<string>
+	<string.h>
+
+1506959428 source:d:\prueba\practica4\compiladorstl17\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	"Lexico.h"
+	"Pila.h"
+	"Gramatica.h"
+
+1506920398 d:\prueba\practica4\compiladorstl17\pila.h
+	<stack>
+	<iostream>
+	<string>
+
+1506924712 d:\prueba\practica4\compiladorstl17\gramatica.h
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+
+1506959396 source:e:\prueba\practica4\compiladorstl17\lexico.cpp
+	"Lexico.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1504501644 e:\prueba\practica4\compiladorstl17\lexico.h
+	<iostream>
+	<string>
+	<string.h>
+
+1507011602 source:e:\prueba\practica4\compiladorstl17\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	"Lexico.h"
+	"Pila.h"
+	"Gramatica.h"
+
+1506920398 e:\prueba\practica4\compiladorstl17\pila.h
+	<stack>
+	<iostream>
+	<string>
+
+1506924712 e:\prueba\practica4\compiladorstl17\gramatica.h
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+

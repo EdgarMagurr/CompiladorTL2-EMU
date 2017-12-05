@@ -1,0 +1,19 @@
+float hola, navidad;
+void suma(int uno,  float dos){
+	int tres;
+
+	tres = 3;
+
+	uno = 2 + tres;
+}
+
+int main(){
+	int a, b;
+	int c;
+	float codigo;
+
+c=a+b;
+	funcion(a, b,c);
+
+	return 1;
+}

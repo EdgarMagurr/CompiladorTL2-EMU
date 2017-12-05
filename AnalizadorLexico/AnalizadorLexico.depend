@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1504237290 source:c:\users\edgar\documents\9no semestre\sem de tl2\analizadorlexico\main.cpp
+	<iostream>
+	"Lexico.h"
+
+1504237341 source:c:\users\edgar\documents\9no semestre\sem de tl2\analizadorlexico\lexico.cpp
+	"Lexico.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1504237575 c:\users\edgar\documents\9no semestre\sem de tl2\analizadorlexico\lexico.h
+	<iostream>
+	<string>
+	<string.h>
+

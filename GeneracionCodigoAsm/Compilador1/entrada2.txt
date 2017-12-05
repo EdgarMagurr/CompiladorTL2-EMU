@@ -1,0 +1,20 @@
+float hola, adios;
+int def;
+int funcion(int uno,  float dos){
+	int tres;
+
+	tres = 3;
+
+	uno = 2;
+return dos;
+}
+
+int main(){
+	int a, b;
+	int c;
+
+c=a+b;
+	funcion(a,c);
+
+	return 1;
+}

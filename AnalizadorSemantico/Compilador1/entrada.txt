@@ -1,0 +1,19 @@
+float hola, adios;
+int c;
+void funcion(int uno,  float dos){
+	int tres;
+
+	tres = 3;
+
+	uno = 2 + tres;
+return 1;
+}
+
+int main(){
+	int a, b;
+
+c=a+b;
+	funcion(a, b,c);
+
+	return 1;
+}
